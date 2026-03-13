@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'OtakuReads',
     description: 'A platform for anime and manga enthusiasts to discover, track, and discuss their favorite series. Features personalized recommendations, community forums, and a seamless reading experience.',
-    image: 'Home.png',
+    image: 'https://imgs.search.brave.com/pMK3LBWFhYCYXxWPqt8aw1oPaRQmWDPm4qgzT2_0JgI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzYv/Nzk2LzMzOC9zbWFs/bC9haS1nZW5lcmF0/ZWQtbGlicmFyeS13/aXRoLW1hbnktY29s/b3JmdWwtYm9va3Mt/aW4tZnJvbnQtb2Yt/Ym9va3NoZWx2ZXMt/ZnJlZS1waG90by5q/cGVn',
     github: 'https://github.com/rohit06310/OtakuReads',
     demo: '#',
   },
