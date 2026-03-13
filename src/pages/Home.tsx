@@ -48,7 +48,10 @@ export default function Home() {
               transition={{ duration: 1, delay: 0.4 }}
             >
               <a
-                href="Resume.pdf"
+                href="/Resume.pdf"
+                download="Rohit-Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="relative inline-flex items-center justify-center px-8 py-4 bg-ink text-paper rounded-full transition-transform hover:scale-105 duration-500 ease-out"
               >
                 Download Résumé
